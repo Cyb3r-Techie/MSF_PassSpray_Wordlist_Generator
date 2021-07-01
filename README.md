@@ -40,7 +40,7 @@ On the other hand, password spray attack tests a single password against all the
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Note_icon.svg/1200px-Note_icon.svg.png" height=22 width=22> But unfortunately, we cannot simply configure Metasploit's modules to support password spray method. To overcome this situation, one can use Metasploit's parameter called `USERPASS_FILE : File containing users and passwords separated by space, one pair per line` in its modules (*if available*) and passes a file containing usernsme passwords that are seperated from eachother by a space character.
 
-<img src="https://thumbs.dreamstime.com/b/check-mark-symbol-box-icon-135442000.jpg" height=30 width=30> This tool creates that wordlist with the purose of performing a successful password spray attack against victim's network.
+<img src="https://thumbs.dreamstime.com/b/check-mark-symbol-box-icon-135442000.jpg" height=30 width=30> This tool creates that wordlist with the purpose of performing a successful password spray attack against victim's network.
 
 ## Usage:
 ```
