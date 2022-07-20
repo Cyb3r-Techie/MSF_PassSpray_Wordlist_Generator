@@ -57,27 +57,4 @@ chmod +x msf_passspray.sh
 ```
 
 ### Example:
-```
- Example
-~~~~~~~~~~~~~~~~~
-root@kali:~$ ./msf_passspray.sh -u /root/usernames.txt -p ./top_passwords.txt
-
-[+] Your wordlist is now ready! :) check out file pass_spray_list.txt
-
-root@kali:~$ cat pass_spray_list.txt
-
-Administrator P@ssw0rd
-Admin P@ssw0rd
-SQL P@ssw0rd
-Administrator qwerty
-Admin qwerty
-SQL qwerty
-Administrator root
-Admin root
-SQL root
-Administrator changeme
-Admin changeme
-SQL changeme
-
-```
-
+<img src="https://github.com/Cyb3r-Techie/MSF_PassSpray_Wordlist_Generator/blob/main/generated_list.PNG">
