@@ -56,5 +56,6 @@ chmod +x msf_passspray.sh
 
 ```
 
-### Example:
+## Example:
+
 <img src="https://github.com/Cyb3r-Techie/MSF_PassSpray_Wordlist_Generator/blob/main/generated_list.PNG">
