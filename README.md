@@ -44,7 +44,7 @@ On the other hand, password spray attack tests a single password against all the
 
 ## Usage:
 ```
-git clone https://github.com/4D0niiS/MSF_PassSpray_Wordlist_Generator.git
+git clone https://github.com/Cyb3r-Techie/MSF_PassSpray_Wordlist_Generator.git
 chmod +x msf_passspray.sh
 ```
 ```
